@@ -2,8 +2,10 @@
 
 It's only a semi-automated export wihtout nested subtasks and subdata. 
 
-1 Open browser console in shitty todo microsoft
+1 Open browser console in todo microsoft
+
 2 Open task list you want to export
+
 3 Run this code in console:
 
 ```
